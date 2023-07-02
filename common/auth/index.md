@@ -1,7 +1,6 @@
 # Авторизация
 
-<!-- ![Import loginform screenshot](/assets/login-form.png) -->
-![Alt text](../../public/login-form.png)
+![login form](../../public/login-form.png)
 
 Все просто - вводится логин и пароль, запрос отправляется на сервер. 
 
@@ -18,4 +17,4 @@
 При успешной авторизации модалка закрывается и пользователю предоставляются соответствующие права.
 
 Если данные для авторизации были введены неверно, показывается ошибка.
-![Import loginform-error screenshot](/assets/login-form-error.png)
+![login-form-error](../../public/login-form-error.png)

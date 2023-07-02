@@ -2,9 +2,9 @@
 
 В проекте присутствуют 2 темы:
 * светлая
-![Import light-theme screenshot](/assets/light-theme.png)
+![Import light-theme screenshot](../../public/light-theme.png)
 * темная
-![Import dark-theme screenshot](/assets/dark-theme.png)
+![Import dark-theme screenshot](../../public/dark-theme.png)
 
 Значение выбранной темы хранится в **React Context**. 
 

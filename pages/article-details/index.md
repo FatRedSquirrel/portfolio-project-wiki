@@ -2,11 +2,11 @@
 
 На этой странице выводятся:
 * контент статьи
-![Import article-content screenshot](/assets/article-content.png)
+![Import article-content screenshot](../../public/article-content.png)
 * блок с рейтингом статьи
-![Import article-rating screenshot](/assets/article-rating.png)
+![Import article-rating screenshot](../../public/article-rating.png)
 * форма для отправки комментария и список комментариев
-![Import article-comments screenshot](/assets/article-comments.png)
+![Import article-comments screenshot](../../public/article-comments.png)
 
 ## Контент статьи
 
@@ -54,7 +54,7 @@ const TextBlock = ({ block, className }: TextBlockProps) => {
 ```
 
 Пример в статье:
-![Import text-example screenshot](/assets/text-example.png)
+![Import text-example screenshot](../../public/text-example.png)
 
 ### Блок с кодом
 В этом блоке отображаются примеры кода, приведенные в статье. 
@@ -99,7 +99,7 @@ const ImageBlock = ({ block, className }: ImageBlockProps) => {
 };
 ```
 Пример в статье:
-![Import image-example screenshot](/assets/image-example.png)
+![Import image-example screenshot](../../public/image-example.png)
 
 Подробнее о работе с изображениями в проекте можно прочитать [здесь](/common/images/).
 

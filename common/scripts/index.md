@@ -13,7 +13,7 @@ Cкрипт для создания структуры папок для нов�
 npm run generate:slice pages NewPage
 ```
 Результат:
-![Import createSlice screenshot](/assets/createSlice.png)
+![Import createSlice screenshot](../../public/createSlice.png)
 
 ## remove-feature 
 
@@ -27,4 +27,4 @@ npm run remove-feature isAppRedesigned on
 ```
 
 Результат:
-![Import remove-feature screenshot](/assets/remove-feature.png)
+![Import remove-feature screenshot](../../public/remove-feature.png)

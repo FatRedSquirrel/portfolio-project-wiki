@@ -2,7 +2,7 @@
 
 На этой странице расположены (слева направо) блок с кнопками переключения вида, список статей и блок с фильтрами и видами сортировки.
 
-![Import articles-page screenshot](/assets/articles-page.png)
+![Import articles-page screenshot](../../public/articles-page.png)
 
 ## Виртуализация
 

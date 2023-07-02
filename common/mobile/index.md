@@ -11,6 +11,6 @@
 Как и компонент **Modal**, **Drawer** сделан с помощью **React.createPortal()**, который позволяет рендерить элементы в другой части DOM, чтобы стили родительских компонентов (oveflow: hidden) и прочее не влияло на их отображение.
 
 ### Drawer в уведомлениях
-![Import drawer-notifications screenshot](/assets/drawer-notifications.png)
+![Import drawer-notifications screenshot](../../public/drawer-notifications.png)
 ### Drawer в форме обратной связи
 ![Import drawer-feedback screenshot](/assets/drawer-feedback.png)
