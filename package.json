@@ -1,0 +1,17 @@
+{
+  "name": "wiki-portfolio-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "author": "fatRedSquirrel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "vitepress": "^1.0.0-beta.1"
+  }
+}
