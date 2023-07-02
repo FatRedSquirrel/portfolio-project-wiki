@@ -4,6 +4,7 @@ import { readFileSync, readdirSync, writeFileSync } from 'fs';
 export default defineConfig({
   title: 'Portfolio Project Wiki',
   description: 'Документация Portfolio Project',
+  base: '/portfolio-project-wiki/',
   head: [['link', { rel: 'icon', type: 'image/webp', href: '/favicon.webp' }]],
   themeConfig: {
     nav: [
