@@ -1,6 +1,6 @@
 # Авторизация
 
-![Import loginform screenshot](/assets/login-form.png)
+<!-- ![Import loginform screenshot](/assets/login-form.png) -->
 ![Alt text](../../public/login-form.png)
 
 Все просто - вводится логин и пароль, запрос отправляется на сервер. 
