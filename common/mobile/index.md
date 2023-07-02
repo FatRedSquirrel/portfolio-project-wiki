@@ -13,4 +13,4 @@
 ### Drawer в уведомлениях
 ![Import drawer-notifications screenshot](../../public/drawer-notifications.png)
 ### Drawer в форме обратной связи
-![Import drawer-feedback screenshot](/assets/drawer-feedback.png)
+![Import drawer-feedback screenshot](../../public/drawer-feedback.png)
