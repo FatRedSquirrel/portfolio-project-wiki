@@ -121,7 +121,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: {
-          svg: readFileSync('assets/website-link.svg', {
+          svg: readFileSync('public/website-link.svg', {
             encoding: 'utf-8',
           }),
         },
