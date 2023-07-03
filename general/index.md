@@ -7,9 +7,7 @@
 
 ## Архитектура
 
-Проект написан в соответствии с методологией Feature sliced design
-
-Ссылка на документацию - [feature sliced design](https://feature-sliced.design/docs/get-started/tutorial)
+Проект написан в соответствии с методологией [Feature Sliced Design](https://feature-sliced.design/docs/get-started/tutorial)
 
 ## Основные технологии:
 

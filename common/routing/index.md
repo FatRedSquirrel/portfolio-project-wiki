@@ -67,5 +67,5 @@ const RequireAuth = (props: RequireAuthProps) => {
 При попытке зайти на страницу, которая не требует обязательной авторизации, но требует определенных ролей, которых нет у пользователя, пользователь будет перенаправлен на **ForbiddenPage**.
 ![Import forbidden-page screenshot](../../public/forbidden-page.png)
 
-При попытке посетить несуществующий роут, пользователь будет перенаправлен на **NotFoundPage**. 
+При попытке посетить несуществующий роут пользователь будет перенаправлен на **NotFoundPage**. 
 ![Import notfound-page screenshot](../../public/notfound-page.png)
