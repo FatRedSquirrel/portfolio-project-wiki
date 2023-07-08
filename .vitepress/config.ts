@@ -74,6 +74,10 @@ export default defineConfig({
             link: '/common/themes/',
           },
           {
+            text: 'Работа с Feature Flags',
+            link: '/common/feature-flags/',
+          },
+          {
             text: 'Поддержка мобильных девайсов',
             link: '/common/mobile/',
           },
@@ -82,13 +86,13 @@ export default defineConfig({
             link: '/common/images/',
           },
           {
-            text: 'Работа с Feature Flags',
-            link: '/common/feature-flags/',
-          },
-          {
             text: 'Вспомогательные скрипты',
             link: '/common/scripts/',
           },
+          {
+            text: 'Работа с переводами',
+            link: '/common/translate/',
+          }
         ],
       },
       {
